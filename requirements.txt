@@ -17,8 +17,5 @@ gunicorn==20.1.0
 scrapegraphai
 nest_asyncio
 async_timeout
-simpleeval
-celery 
-redis
-playwright>=1.34.0
+playwright
 
